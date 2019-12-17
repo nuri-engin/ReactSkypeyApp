@@ -1,2 +1,0 @@
-# ReactSkypeyApp
-Created with CodeSandbox
